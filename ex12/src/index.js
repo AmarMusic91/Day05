@@ -1,8 +1,8 @@
 function main() {
   var lastName = "Tesla";
-  var thirdLetterOfLastName = lastName[lastName.length - 1];
+  var lastLetterOfLastName = lastName[lastName.length - 1];
 
-  return thirdLetterOfLastName;
+  return lastLetterOfLastName;
 }
 
 console.log(main());
